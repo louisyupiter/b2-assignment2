@@ -44,6 +44,7 @@ Jika serangan gagal:
 - penyerang: setengah medal hilang (pembulatan ke bawah, jika current 5 akan jadi 2)
 - yang diserang: mendapatkan 2 medal
 
+Gunakan fungsi berikut untuk menentukan kesuksesan serangan:
 ```
 const arr = [];
 for(let i=0; i<3; i++) {
