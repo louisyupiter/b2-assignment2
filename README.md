@@ -10,7 +10,7 @@ Market menghasilkan 1 gold/menit.
 Market memiliki daya tampung sebesar 20 golds.
 Setiap Market harus memiliki namanya masing-masing.
 
-User dapat mellihat semua list Market
+User dapat mellihat semua list Market.
 User dapat melihat detail Market, termasuk resource yang sudah digenerate.
 User dapat mengganti nama Market.
 User dapat merobohkan Market.
@@ -26,6 +26,12 @@ Barrack menghasilkan 1 soldier/menit.
 Barrack memiliki daya tampung sebesar 10 soldiers.
 
 Seperti Market, untuk Farm dan Barrack harus memiliki namanya masing-masing.
+
+User dapat mellihat semua list Farm/Barrack.
+User dapat melihat detail Farm/Barrack, termasuk resource yang sudah digenerate.
+User dapat mengganti nama Farm/Barrack.
+User dapat merobohkan Farm/Barrack.
+User dapat collect resource pada Farm/Barrack tertentu.
 
 User dapat menyerang user lain untuk merampas resource pada Townhall mereka. Keberhasilan akan dirandom antara sukses dan gagal dengan basis keberhasilan ditentukan berdasarkan jumlah soldier yang dikirim. Soldiers yang dikirim, baik serangan berhasil maupun gagal akan hilang.
 
