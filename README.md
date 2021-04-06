@@ -50,7 +50,7 @@ const arr = [];
 for(let i=0; i<3; i++) {
   arr.push(Math.random() < (<soldiers_dikirim> / (<soldiers_townhall_lawan> + 1)))
 }
-const isSuccess = arr.filter(el => el.length >= 2 ? true : false;
+const isSuccess = arr.filter(el => el).length >= 2 ? true : false;
 ```
 
 notes:
