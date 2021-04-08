@@ -67,6 +67,9 @@ Supaya game lebih menarik, buatlah limitasi berikut:
 
 ## Pengumpulan
 
+Dikumpulin di Hari Jumat, 9 April 2021
+Keep calm!
+
 Masukkan Project kalian, kedalam Git kalian masing2..
 di buat Private..
 Cara membuat Repository Public menjadi Private:
