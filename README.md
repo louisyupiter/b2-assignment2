@@ -45,7 +45,8 @@ Jika serangan gagal:
 - yang diserang: mendapatkan 2 medal
 
 Gunakan fungsi berikut untuk menentukan kesuksesan serangan:
-```
+
+```js
 const arr = [];
 for(let i=0; i<3; i++) {
   arr.push(Math.random() < (<soldiers_dikirim> / (<soldiers_townhall_lawan> + 1)))
@@ -63,3 +64,25 @@ Supaya game lebih menarik, buatlah limitasi berikut:
 - Townhall hanya dapat menampung 1000 golds, 1000 foods dan 500 soldiers.
 - User hanya dapat membuat maksimal 30 barrack.
 - User dengan jumlah soldiers pada Townhall dibawah 50 tidak dapat diserang.
+
+## Pengumpulan
+
+Masukkan Project kalian, kedalam Git kalian masing2..
+di buat Private..
+Cara membuat Repository Public menjadi Private:
+- Masuk ke Tab setting
+- Muncul Tampilan Menu Option (secara Default), scroll ke bawah.. sampai nemu DANGER ZONE..
+- Pilih "Change repository visibility"
+- lalu ubah jadikan Private
+
+setelah itu invite louisyupiter dan afif12-droid
+Cara Invite:
+- Masuk ke Tab Setting 
+- Pilih Menu Manage Access (dibagian sidebar kiri)
+- klik tombol Invite a Collaborator
+- tambahkan kedua akun itu..
+
+lalu taruh link kalian pada gdrive pengumpulan assignment
+buat note, lalu taruhkan disitu..
+
+donee! Good Job!
