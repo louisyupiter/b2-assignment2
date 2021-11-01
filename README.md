@@ -77,7 +77,7 @@ Cara membuat Repository Public menjadi Private:
 - Pilih "Change repository visibility"
 - lalu ubah jadikan Private
 
-setelah itu invite louisyupiter dan afif12-droid
+setelah itu invite louisyupiter
 Cara Invite:
 - Masuk ke Tab Setting 
 - Pilih Menu Manage Access (dibagian sidebar kiri)
